@@ -41,3 +41,9 @@ The program uses try-with-resources blocks to automatically close readers and wr
 
 ✅ Conclusion
 This program demonstrates core Java file handling concepts with a clean, interactive interface. It is ideal for learning how to manipulate files using Java.
+
+
+
+#OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/bd91daa2-ecfd-48b6-8642-5d805e9c2f93)
