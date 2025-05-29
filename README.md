@@ -47,3 +47,6 @@ This program demonstrates core Java file handling concepts with a clean, interac
 #OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/bd91daa2-ecfd-48b6-8642-5d805e9c2f93)
+
+
+![Image](https://github.com/user-attachments/assets/1c744285-2cb8-4640-9b52-9107c437a0ec)
